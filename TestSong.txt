@@ -1,2 +1,4 @@
 logitech
 razer
+steelseries
+corsair
