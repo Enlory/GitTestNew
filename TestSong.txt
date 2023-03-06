@@ -2,3 +2,6 @@ logitech
 razer
 steelseries
 corsair
+
+cooler master
+alienware
