@@ -3,8 +3,5 @@ razer
 steelseries
 corsair
 
-true stuff
-trying as hard as i can
-
-lots of stuff
-----------------------------
+cooler master
+alienware
